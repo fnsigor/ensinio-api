@@ -1,0 +1,25 @@
+{
+  "api": {
+    "services": [
+      {
+        "id": "4cxs4c",
+        "title": "trailsTitle",
+        "description": "trailsText",
+        "url": "/icon-trilhas.svg"
+      },
+      {
+        "id": "ndjs5ds",
+        "title": "playlistsTitle",
+        "description": "playlistsText",
+        "url": "/icon-playlists.svg"
+      },
+      {
+        "id": "45sd541",
+        "title": "collectionsTitle",
+        "description": "collectionsText",
+        "url": "/icon-folder.svg" 
+        
+      }
+    ]
+  }
+}
